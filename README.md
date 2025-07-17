@@ -1,6 +1,6 @@
 # Evolucija nogometa
 
-##Cilj projekta  
+## Cilj projekta  
 Naučiti Python, rad s API-ima i izradu atraktivnih grafova kroz analizu nogometnih podataka.
 
 ---
